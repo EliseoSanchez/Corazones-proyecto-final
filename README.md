@@ -43,4 +43,4 @@ El proyecto está estructurado siguiendo el patrón **MVC**, que separa claramen
 - **Controlador:** actúa como intermediario entre la vista y el modelo, manejando las acciones del usuario y actualizando el estado del juego.
 
 
-© 2025 - Eliseo Sanchez
+© 2026 - Eliseo Sanchez
